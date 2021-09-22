@@ -1,3 +1,4 @@
+#!/usr/bin/python3
 class Award(object):
     def __init__(self, name=None, expires_in=None, quality=None):
         self.name = name
